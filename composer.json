@@ -1,0 +1,27 @@
+{
+    "name": "lookitsatravis/laravel-rihanna",
+    "description": "The bad girl queue worker.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Travis Vignon",
+            "email": "travis@lookitsatravis.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lookitsatravis\\Rihanna\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lookitsatravis\\Rihanna\\ServiceProvider"
+            ]
+        }
+    }
+}
