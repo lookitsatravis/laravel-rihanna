@@ -22,6 +22,10 @@ Replace any `php artisan queue:work` calls with the new command:
 
 `php artisan queue:work:work:work:work:work`
 
+## Acknowledgements
+
+This is 100% [Clay Wittwer's](https://github.com/ccwittwer) idea.
+
 ## Copyright
 
 Released under the [MIT license](./LICENSE).
