@@ -21,3 +21,7 @@ A brand new way to run your Laravel queues.
 Replace any `php artisan queue:work` calls with the new command:
 
 `php artisan queue:work:work:work:work:work`
+
+## Copyright
+
+Released under the [MIT license](./LICENSE).
